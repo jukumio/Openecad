@@ -1,0 +1,11 @@
+
+
+# dataset
+TinyLLaVA_Factory/dataset/*
+
+# outputs
+TinyLLaVA_Factory/newoutputs/*
+TinyLLaVA_Factory/newoutputs-319.tar.gz
+
+.vscode/*
+TinyLLaVA_Factory/.vscode/*
